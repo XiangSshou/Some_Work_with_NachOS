@@ -1,7 +1,6 @@
 # Some_Work_with_NachOS
 My OS Assignment
 
-# My Solution 
 ## Overall Design  
 
 I created 3 classes, Admin, Train and Request. Everything is stored in the admin class which has a global pointer, so all the threads are able to modify the admin object. The admin object keeps current time, the name of stations, five trains three lists of requests (granted, refused, onTrain).  
