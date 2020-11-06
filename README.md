@@ -1,5 +1,4 @@
 # Some_Work_with_NachOS
-My OS Assignment
 
 ## Overall Design  
 
